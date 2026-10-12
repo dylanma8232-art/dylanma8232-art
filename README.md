@@ -11,7 +11,7 @@ Python · 3 stars
 [查看项目](https://github.com/dylanma8232-art/Daming-OS)
 
 ### daming-skillgain
-你的 Agent Skill 到底有没有用？跑一次就知道。
+你的 Skill 到底有没有用？跑一次就知道。
 Python · GPL-3.0 · v1.0
 [查看项目](https://github.com/dylanma8232-art/daming-skillgain)
 
