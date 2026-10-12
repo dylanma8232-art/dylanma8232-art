@@ -14,7 +14,6 @@ Python · 3 stars
 你的 Agent Skill 到底有没有用？跑一次就知道。
 Python · GPL-3.0 · v1.0
 [查看项目](https://github.com/dylanma8232-art/daming-skillgain)
-![daming-skillgain 测评报告截图](https://raw.githubusercontent.com/dylanma8232-art/daming-skillgain/main/assets/report-screenshot.png)
 
 ## 联系
 [243909267+dylanma8232-art@users.noreply.github.com](mailto:243909267+dylanma8232-art@users.noreply.github.com) · 欢迎提 Issue 或 Star。
