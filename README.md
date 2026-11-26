@@ -46,4 +46,4 @@
 
 ## 联系与交流
 
-- **联系邮箱**：[243909267+dylanma8232-art@users.noreply.github.com](mailto:243909267+dylanma8232-art@users.noreply.github.com) · **[查看全部仓库 →](https://github.com/dylanma8232-art?tab=repositories)**
+有想法、有报错、想提需求，直接去对应仓库开 Issue，就是最快的交流渠道。 · **[查看全部仓库 →](https://github.com/dylanma8232-art?tab=repositories)**
