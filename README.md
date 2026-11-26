@@ -27,10 +27,6 @@
   <a href="https://github.com/dylanma8232-art/DM-FH5-Telemetry#gh-dark-mode-only"><img alt="《地平线 5》智能遥测平台 — 跑一圈自动录制赛道并生成语音路书，支持逐弯遥测复盘、实跑数据 AI 调车与副屏领航。" src="assets/cards/card-fh5-telemetry-dark.png#gh-dark-mode-only" width="100%"></a>
 </p>
 
----
-
-## 非商业用途源码项目
-
 <p>
   <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-light-mode-only"><img alt="内容工作台 · 从素材原文到审核稿件" src="assets/cards/card-content-workbench-light.png#gh-light-mode-only" width="100%"></a>
   <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-dark-mode-only"><img alt="内容工作台 · 从素材原文到审核稿件" src="assets/cards/card-content-workbench-dark.png#gh-dark-mode-only" width="100%"></a>
