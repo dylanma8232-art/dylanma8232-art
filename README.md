@@ -29,6 +29,15 @@
 
 ---
 
+## 非商业用途源码项目
+
+<p>
+  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-light-mode-only"><img alt="内容工作台 · 从素材原文到审核稿件" src="assets/cards/card-content-workbench-light.png#gh-light-mode-only" width="100%"></a>
+  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-dark-mode-only"><img alt="内容工作台 · 从素材原文到审核稿件" src="assets/cards/card-content-workbench-dark.png#gh-dark-mode-only" width="100%"></a>
+</p>
+
+---
+
 ## 做产品的习惯
 
 - **从真实卡点出发**：只做自己在真实场景里反复遇到痛点、现有方案又不够顺手的东西，不堆概念型玩具。
