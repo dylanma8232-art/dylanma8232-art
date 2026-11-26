@@ -28,8 +28,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-light-mode-only"><img alt="内容工作台 · 从素材原文到审核稿件" src="assets/cards/card-content-workbench-light.png#gh-light-mode-only" width="100%"></a>
-  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-dark-mode-only"><img alt="内容工作台 · 从素材原文到审核稿件" src="assets/cards/card-content-workbench-dark.png#gh-dark-mode-only" width="100%"></a>
+  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-light-mode-only"><img alt="内容工作台（找回原话 · 版本审稿 · 账号日报）— 把采访和文稿汇成有原文依据的选题，核对证据、审核稿件，也能按平台看运营日报。" src="assets/cards/card-content-workbench-light.png#gh-light-mode-only" width="100%"></a>
+  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-dark-mode-only"><img alt="内容工作台（找回原话 · 版本审稿 · 账号日报）— 把采访和文稿汇成有原文依据的选题，核对证据、审核稿件，也能按平台看运营日报。" src="assets/cards/card-content-workbench-dark.png#gh-dark-mode-only" width="100%"></a>
 </p>
 
 ---
