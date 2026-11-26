@@ -1,10 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img alt="dylanma8232-art — 不会写代码的产品经理，习惯先把真实场景里的卡点想透，再用 AI 做成拿来即用的开源工具。" src="assets/banner-light.png" width="100%">
+  <img alt="Dylan.Ma — 不会写代码的产品经理，习惯先把真实场景里的卡点想透，再用 AI 做成拿来即用的开源工具。" src="assets/banner-light.png" width="100%">
 </picture>
 
-你好，我是 **dylanma8232-art**（Dylan），一名不会写传统代码的产品经理。
+你好，我是 **Dylan.Ma**，一名不会写传统代码的产品经理。
 
 平时工作和玩游戏遇到不好用、缺抓手的地方，习惯先把真痛点拆清楚，再用 AI 把它做成拿来就能跑、好上手的开源工具。
 
