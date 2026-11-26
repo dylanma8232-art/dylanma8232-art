@@ -1,0 +1,34 @@
+{
+  "banner": {
+    "title": "dylanma8232-art",
+    "pill": "产品经理 · AI 独立造物",
+    "desc": "不会写代码的产品经理，习惯先把真实场景里的卡点想透，再用 AI 做成拿来即用的开源工具。",
+    "ip": "ip-builder.png"
+  },
+  "cards": [
+    {
+      "slug": "skillgain",
+      "repo": "daming-skillgain",
+      "title": "大明 Skill 评测器",
+      "pill": "专门评测 Skill 的 Skill",
+      "desc": "你的 Skill 到底有没有用？跑一次真题对比，看清它在各模型上是真帮忙还是帮倒忙。",
+      "ip": "ip-inspector.png"
+    },
+    {
+      "slug": "daming-os",
+      "repo": "Daming-OS",
+      "title": "大明 AI 记忆成长系统",
+      "pill": "让 AI 越用越聪明",
+      "desc": "给 AI 装上长期记忆与自动排错能力，告别聊几句就忘事、烧钱和报错原地死循环。",
+      "ip": "ip-guardian.png"
+    },
+    {
+      "slug": "fh5-telemetry",
+      "repo": "DM-FH5-Telemetry",
+      "title": "《地平线 5》智能遥测平台",
+      "pill": "自动录赛道 · 语音路书 · AI 调车",
+      "desc": "跑一圈自动录制赛道并生成语音路书，支持逐弯遥测复盘、实跑数据 AI 调车与副屏领航。",
+      "ip": "ip-racer.png"
+    }
+  ]
+}
