@@ -28,8 +28,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-light-mode-only"><img alt="DM 内容工作台（多平台深采 · 原文核对 · 一键带稿）— 把分散采访与平台素材汇成有原文依据的选题和定稿，一键带稿分发，同屏看齐各平台运营日报。" src="assets/cards/card-content-workbench-light.png#gh-light-mode-only" width="100%"></a>
-  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-dark-mode-only"><img alt="DM 内容工作台（多平台深采 · 原文核对 · 一键带稿）— 把分散采访与平台素材汇成有原文依据的选题和定稿，一键带稿分发，同屏看齐各平台运营日报。" src="assets/cards/card-content-workbench-dark.png#gh-dark-mode-only" width="100%"></a>
+  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-light-mode-only"><img alt="DM 内容工作台（收素材 · 对原话 · 审稿看数据）— 把各处搜集的帖子、音视频和文档变成有原话出处的选题与定稿，一键带去平台发稿，同屏统计所有账号日报。" src="assets/cards/card-content-workbench-light.png#gh-light-mode-only" width="100%"></a>
+  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-dark-mode-only"><img alt="DM 内容工作台（收素材 · 对原话 · 审稿看数据）— 把各处搜集的帖子、音视频和文档变成有原话出处的选题与定稿，一键带去平台发稿，同屏统计所有账号日报。" src="assets/cards/card-content-workbench-dark.png#gh-dark-mode-only" width="100%"></a>
 </p>
 
 ---
