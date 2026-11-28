@@ -28,8 +28,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-light-mode-only"><img alt="内容工作台（找回原话 · 版本审稿 · 账号日报）— 把采访和文稿汇成有原文依据的选题，核对证据、审核稿件，也能按平台看运营日报。" src="assets/cards/card-content-workbench-light.png#gh-light-mode-only" width="100%"></a>
-  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-dark-mode-only"><img alt="内容工作台（找回原话 · 版本审稿 · 账号日报）— 把采访和文稿汇成有原文依据的选题，核对证据、审核稿件，也能按平台看运营日报。" src="assets/cards/card-content-workbench-dark.png#gh-dark-mode-only" width="100%"></a>
+  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-light-mode-only"><img alt="DM 内容工作台（多平台深采 · 原文核对 · 一键带稿）— 把分散采访与平台素材汇成有原文依据的选题和定稿，一键带稿分发，同屏看齐各平台运营日报。" src="assets/cards/card-content-workbench-light.png#gh-light-mode-only" width="100%"></a>
+  <a href="https://github.com/dylanma8232-art/DM-Content-Workbench#gh-dark-mode-only"><img alt="DM 内容工作台（多平台深采 · 原文核对 · 一键带稿）— 把分散采访与平台素材汇成有原文依据的选题和定稿，一键带稿分发，同屏看齐各平台运营日报。" src="assets/cards/card-content-workbench-dark.png#gh-dark-mode-only" width="100%"></a>
 </p>
 
 ---
